@@ -1,0 +1,710 @@
+[
+    {
+        "no": 1,
+        "district": "士林區",
+        "parkingname": "文昌國小地下停車場",
+        "address": "文林路615巷20號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 2,
+        "district": "士林區",
+        "parkingname": "百齡高中地下停車場",
+        "address": "承德路4段175號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 3,
+        "district": "士林區",
+        "parkingname": "承德公園地下停車場",
+        "address": "基河路150號地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 4,
+        "district": "士林區",
+        "parkingname": "社子國小地下停車場",
+        "address": "延平北路6段308號地下",
+        "numbersOfCells": 10
+    },
+    {
+        "no": 5,
+        "district": "士林區",
+        "parkingname": "前港公園地下停車場",
+        "address": "前港街45號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 6,
+        "district": "士林區",
+        "parkingname": "海光公園地下停車場",
+        "address": "葫蘆街83號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 7,
+        "district": "士林區",
+        "parkingname": "福林公園地下停車場",
+        "address": "中正路17號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 8,
+        "district": "士林區",
+        "parkingname": "蘭雅公園地下停車場",
+        "address": "德行東路129巷31號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 9,
+        "district": "士林區",
+        "parkingname": "至善公園平面停車場",
+        "address": "至善路1段雙溪公園斜對面",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 10,
+        "district": "大同區",
+        "parkingname": "大稻埕公園地下停車場",
+        "address": "歸綏街243號地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 11,
+        "district": "大同區",
+        "parkingname": "大龍國小地下停車場",
+        "address": "哈密街47號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 12,
+        "district": "大同區",
+        "parkingname": "市民大道公中段地下停車場",
+        "address": "公園路-中山北路（地下）",
+        "numbersOfCells": 8
+    },
+    {
+        "no": 13,
+        "district": "大同區",
+        "parkingname": "市民大道塔城段地下停車場",
+        "address": "西寧北路-塔城街（地下）",
+        "numbersOfCells": 8
+    },
+    {
+        "no": 14,
+        "district": "大同區",
+        "parkingname": "成淵高中地下停車場",
+        "address": "承德路2段235號之1地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 15,
+        "district": "大同區",
+        "parkingname": "延平國小地下停車場",
+        "address": "昌吉街97號",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 16,
+        "district": "大同區",
+        "parkingname": "建成公園地下停車場",
+        "address": "承德路2段31號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 17,
+        "district": "大同區",
+        "parkingname": "建成國中地下停車場",
+        "address": "長安西路37號之一地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 18,
+        "district": "大同區",
+        "parkingname": "啟聰學校地下停車場",
+        "address": "延平北路4段205號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 19,
+        "district": "大同區",
+        "parkingname": "朝陽公園地下停車場",
+        "address": "重慶北路2段68號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 20,
+        "district": "大同區",
+        "parkingname": "塔城公園地下停車場",
+        "address": "塔城街11號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 21,
+        "district": "大同區",
+        "parkingname": "蓬萊國小地下停車場",
+        "address": "寧夏路35號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 22,
+        "district": "大同區",
+        "parkingname": "明倫社會住宅地下停車場",
+        "address": "承德路3段285號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 23,
+        "district": "大安區",
+        "parkingname": "大安高工地下停車場",
+        "address": "信義路3段166巷6弄12號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 24,
+        "district": "大安區",
+        "parkingname": "大安森林公園地下停車場",
+        "address": "建國南路2段2號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 25,
+        "district": "大安區",
+        "parkingname": "市民大道延吉段地下停車場",
+        "address": "延吉街兩側（地下）",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 26,
+        "district": "大安區",
+        "parkingname": "市民大道建復段地下停車場",
+        "address": "建國北路-復興南路（地下）",
+        "numbersOfCells": 4
+    },
+   
+    {
+        "no": 27,
+        "district": "大安區",
+        "parkingname": "金華公園地下停車場",
+        "address": "金華街190號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 28,
+        "district": "大安區",
+        "parkingname": "附中公園地下停車場",
+        "address": "復興南路1段340巷11號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 29,
+        "district": "大安區",
+        "parkingname": "僑安地下停車場",
+        "address": "忠孝東路4段306號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 30,
+        "district": "大安區",
+        "parkingname": "嘉興公園地下停車場",
+        "address": "嘉興街373號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 31,
+        "district": "大安區",
+        "parkingname": "龍門國中地下停車場",
+        "address": "建國南路2段269號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 32,
+        "district": "中山區",
+        "parkingname": "市民大道中林段地下停車場",
+        "address": "中山北路-林森北路（地下）",
+        "numbersOfCells": 7
+    },
+    {
+        "no": 33,
+        "district": "中山區",
+        "parkingname": "市民大道林金段地下停車場",
+        "address": "林森北路-金山北路（地下）",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 34,
+        "district": "中山區",
+        "parkingname": "永盛公園地下停車場",
+        "address": "中山北路2段93巷30號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 35,
+        "district": "中山區",
+        "parkingname": "林森公園地下停車場",
+        "address": "南京東路1段35號地下",
+        "numbersOfCells": 17
+    },
+    {
+        "no": 36,
+        "district": "中山區",
+        "parkingname": "長安國小地下停車場",
+        "address": "松江路90巷14號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 37,
+        "district": "中山區",
+        "parkingname": "進安公園地下停車場",
+        "address": "八德路2段158號地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 38,
+        "district": "中山區",
+        "parkingname": "榮星花園地下停車場",
+        "address": "建國北路3段39號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 39,
+        "district": "中山區",
+        "parkingname": "濱江國中地下停車場",
+        "address": "樂群2路266巷1號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 40,
+        "district": "中山區",
+        "parkingname": "建國北路高架橋下停車場",
+        "address": "建國北路(八德路-民族東路)",
+        "numbersOfCells": 24
+    },
+    {
+        "no": 41,
+        "district": "中山區",
+        "parkingname": "新生高架橋下(錦州街-民權東路)停\r\n車場",
+        "address": "新生高架(錦州街-民權東路)",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 42,
+        "district": "中山區",
+        "parkingname": "新生高架橋下(南京東路-長安東路)\r\n停車場",
+        "address": "新生高架(南京東路-長安東路)",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 43,
+        "district": "中山區",
+        "parkingname": "樂群臨時平面停車場",
+        "address": "樂群三路口、敬業四路口",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 44,
+        "district": "中正區",
+        "parkingname": "中山堂地下停車場",
+        "address": "延平南路98號地下",
+        "numbersOfCells": 7
+    },
+    {
+        "no": 45,
+        "district": "內湖區",
+        "parkingname": "大湖公園地下停車場",
+        "address": "成功路5段7號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 46,
+        "district": "內湖區",
+        "parkingname": "西康地下停車場",
+        "address": "內湖路1段203巷25號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 47,
+        "district": "內湖區",
+        "parkingname": "西湖公園地下停車場",
+        "address": "內湖路1段387巷38號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 48,
+        "district": "內湖區",
+        "parkingname": "東湖國小地下停車場",
+        "address": "東湖路115號之1地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 50,
+        "district": "內湖區",
+        "parkingname": "麗湖國小地下停車場",
+        "address": "金湖路363巷8號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 51,
+        "district": "內湖區",
+        "parkingname": "大港墘公園地下停車場",
+        "address": "洲子街與瑞光路393巷交叉路口",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 52,
+        "district": "內湖區",
+        "parkingname": "內湖污水處理廠附屬公園停車場",
+        "address": "舊宗路2段2號",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 53,
+        "district": "內湖區",
+        "parkingname": "瑞光社會住宅地下停車場",
+        "address": "瑞光路160號地下",
+        "numbersOfCells": 8
+    },
+    {
+        "no": 54,
+        "district": "文山區",
+        "parkingname": "永建國小地下停車場",
+        "address": "木柵路1段311巷1號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 55,
+        "district": "文山區",
+        "parkingname": "辛亥國小地下停車場",
+        "address": "辛亥路4段103號地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 56,
+        "district": "文山區",
+        "parkingname": "景美國小地下停車場",
+        "address": "景文街142巷2號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 57,
+        "district": "文山區",
+        "parkingname": "景華公園地下停車場",
+        "address": "景華街55號地下",
+        "numbersOfCells": 15
+    },
+    {
+        "no": 58,
+        "district": "文山區",
+        "parkingname": "萬興國小地下停車場",
+        "address": "秀明路2段116號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 59,
+        "district": "文山區",
+        "parkingname": "臺北花木批發市場地下停車場",
+        "address": "興隆路1段15號地下",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 60,
+        "district": "文山區",
+        "parkingname": "興隆D1區公共住宅地下停車場",
+        "address": "木柵路2段2巷12~50號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 61,
+        "district": "文山區",
+        "parkingname": "興隆D2區公共住宅地下停車場",
+        "address": "興隆路4段105巷45號地下",
+        "numbersOfCells": 7
+    },
+    {
+        "no": 62,
+        "district": "文山區",
+        "parkingname": "興隆公園地下停車場",
+        "address": "仙岩路128號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 63,
+        "district": "文山區",
+        "parkingname": "木柵社會住宅地下停車場",
+        "address": "久康街24巷36號",
+        "numbersOfCells": 1
+    },
+    {
+        "no": 64,
+        "district": "北投區",
+        "parkingname": "七星公園地下停車場",
+        "address": "七星街3號地下",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 65,
+        "district": "北投區",
+        "parkingname": "大豐公園地下停車場",
+        "address": "大興街145號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 66,
+        "district": "北投區",
+        "parkingname": "石牌國小地下停車場",
+        "address": "致遠2路80號地下",
+        "numbersOfCells": 10
+    },
+    {
+        "no": 67,
+        "district": "北投區",
+        "parkingname": "立農公園地下停車場",
+        "address": "承德路7段372號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 68,
+        "district": "北投區",
+        "parkingname": "振興公園地下停車場",
+        "address": "天母西路112號地下",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 69,
+        "district": "北投區",
+        "parkingname": "新奇岩社會住宅地下停車場",
+        "address": "磺港路261號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 70,
+        "district": "松山區",
+        "parkingname": "八德立體停車場",
+        "address": "八德路4段580號",
+        "numbersOfCells": 7
+    },
+    {
+        "no": 71,
+        "district": "松山區",
+        "parkingname": "中崙高中地下停車場",
+        "address": "八德路4段101號地下",
+        "numbersOfCells": 7
+    },
+    {
+        "no":72,
+        "district": "松山區",
+        "parkingname": "民生立體停車場",
+        "address": "民生東路5段84號",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 73,
+        "district": "松山區",
+        "parkingname": "民生社區活動中心地下停車場",
+        "address": "民生東路5段163號之1地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 74,
+        "district": "松山區",
+        "parkingname": "民有市場地下停車場",
+        "address": "民權東路3段140巷15號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 75,
+        "district": "松山區",
+        "parkingname": "民權公園地下停車場",
+        "address": "民權東路4段180號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 76,
+        "district": "松山區",
+        "parkingname": "西松高中地下停車場",
+        "address": "健康路325巷19弄1號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 77,
+        "district": "松山區",
+        "parkingname": "松山國小地下停車場",
+        "address": "八德路4段746號",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 78,
+        "district": "松山區",
+        "parkingname": "健康國小地下停車場",
+        "address": "延壽街168號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 79,
+        "district": "松山區",
+        "parkingname": "偶戲博物館地下停車場",
+        "address": "市民大道5段99號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 80,
+        "district": "松山區",
+        "parkingname": "健康1區社會住宅地下停車場",
+        "address": "健康路285號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 81,
+        "district": "松山區",
+        "parkingname": "健康2區社會住宅地下停車場",
+        "address": "健康路309號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 82,
+        "district": "信義區",
+        "parkingname": "三張里地下停車場",
+        "address": "松平路81號地下",
+        "numbersOfCells": 10
+    },
+    {
+        "no": 83,
+        "district": "信義區",
+        "parkingname": "五分埔公園地下停車場",
+        "address": "中坡北路57號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 84,
+        "district": "信義區",
+        "parkingname": "府前廣場地下停車場",
+        "address": "松壽路1號地下",
+        "numbersOfCells": 40
+    },
+    {
+        "no": 85,
+        "district": "信義區",
+        "parkingname": "忠信公園地下停車場",
+        "address": "松仁路2號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 86,
+        "district": "信義區",
+        "parkingname": "松山工農地下停車場",
+        "address": "忠孝東路5段236巷15號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 87,
+        "district": "信義區",
+        "parkingname": "松山車站地下停車場",
+        "address": "松山路11號南廣場地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 88,
+        "district": "信義區",
+        "parkingname": "松山高中地下停車場",
+        "address": "基隆路1段156號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 89,
+        "district": "信義區",
+        "parkingname": "松壽廣場地下停車場",
+        "address": "松智路75號地下室",
+        "numbersOfCells": 8
+    },
+    {
+        "no": 90,
+        "district": "信義區",
+        "parkingname": "信義國小地下停車場",
+        "address": "松勤路60號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 91,
+        "district": "信義區",
+        "parkingname": "信義廣場地下停車場",
+        "address": "信義路5段11號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 92,
+        "district": "信義區",
+        "parkingname": "春光公園地下停車場",
+        "address": "忠孝東路5段666號地下",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 93,
+        "district": "信義區",
+        "parkingname": "景勤二號公園地下停車場",
+        "address": "信安街49號",
+        "numbersOfCells": 5
+    },
+    {
+        "no": 94,
+        "district": "信義區",
+        "parkingname": "雅祥公園地下停車場",
+        "address": "松隆路123巷7號地下",
+        "numbersOfCells": 6
+    },
+    {
+        "no": 95,
+        "district": "信義區",
+        "parkingname": "臺北市災害應變中心地下停車場",
+        "address": "莊敬路391巷11弄2號地下",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 96,
+        "district": "信義區",
+        "parkingname": "興雅國中地下停車場",
+        "address": "松德路200巷18號地下",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 97,
+        "district": "信義區",
+        "parkingname": "信義區行政中心地下停車場",
+        "address": "福德街86號地下",
+        "numbersOfCells": 3
+    },
+    {
+        "no": 98,
+        "district": "信義區",
+        "parkingname": "廣慈衛福大樓地下停車場",
+        "address": "大道路116號地下",
+        "numbersOfCells": 18
+    },
+     {
+        "no": 99,
+        "district": "大安區",
+        "parkingname": "市民大道復敦段地下停車場",
+        "address": "復興南路-敦化南路（地下）",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 100,
+        "district": "大安區",
+        "parkingname": "市民大道敦延段地下停車場",
+        "address": "敦化南路-延吉街（地下）",
+        "numbersOfCells": 4
+    },
+    {
+        "no": 101,
+        "district": "內湖區",
+        "parkingname": "洲子立體停車場",
+        "address": "瑞光路513巷22弄2號",
+        "numbersOfCells": 2
+    },
+    {
+        "no": 102,
+        "district": "內湖區",
+        "parkingname": "康樂合署大樓地下停車場",
+        "address": "康樂街150號地下",
+        "numbersOfCells": 1
+    }
+]
